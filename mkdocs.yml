@@ -21,3 +21,7 @@ nav:
   - "1. ORM & Models": 01_orm_models.md
   - "2. Views & UI": 02_views_ui.md
   - "3. Chatter & Mail": 03_chatter_mail.md
+  - "4. Wizards": 04_wizards.md
+  - "5. Actions & Cron": 05_actions_cron.md
+  - "6. OWL & Frontend": 06_owl_javascript.md
+  - "7. Migration & Versions": 07_migration_guides.md
