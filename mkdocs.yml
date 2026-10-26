@@ -1,0 +1,23 @@
+site_name: Odoo Code Snippets & Cookbook
+site_description: A collection of Odoo snippets for developers and consultants.
+site_author: Luca Grillo
+repo_url: https://github.com/Lucgril/odoo-cookbook
+
+theme:
+  name: material
+  palette:
+    primary: deep purple
+  features:
+    - navigation.tabs
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - "1. ORM & Models": 01_orm_models.md
+  - "2. Views & UI": 02_views_ui.md
+  - "3. Chatter & Mail": 03_chatter_mail.md
