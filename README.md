@@ -22,6 +22,8 @@ The documentation is divided into clear architectural layers:
 
 7. **Migration & Versions:** Quick reference guides for upgrading syntax (e.g., the death of `attrs`, the transition from `<tree>` to `<list>`).
 
+8. **Best Practices & Pitfalls:** Common mistakes (N+1 queries, Expected Singleton, Context pollution) and how to avoid them for optimized, bug-free code.
+
 ## 🗂️ Project Structure
 
 The documentation is built using [MkDocs](https://www.mkdocs.org/) with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
@@ -35,7 +37,7 @@ odoo-cookbook/
     ├── 01_orm_models.md
     ├── 02_views_ui.md
     ├── ...
-    └── 07_migration_guides.md
+    └── 08_best_practices.md
 
 ```
 

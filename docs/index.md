@@ -21,6 +21,7 @@ Navigate through the sections using the top menu or the sidebar. The repository 
 * **5. Actions & Cron:** Scheduled background jobs, server actions, and automated triggers.
 * **6. OWL & Frontend:** Modern JavaScript UI, custom field widgets, and component patching (hooks & lifecycle).
 * **7. Migration & Versions:** Quick reference guides for upgrading code syntax to Odoo 18, 19, and 20.
+* **8. Best Practices & Pitfalls:**  Common mistakes (N+1 queries, Expected Singleton, Context pollution) and how to write clean, optimized code.
 
 !!! tip "Contribute"
     Do you have a brilliant snippet you use in every project? Open a Pull Request on the GitHub repository to add it!

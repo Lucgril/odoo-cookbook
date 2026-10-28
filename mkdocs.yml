@@ -26,3 +26,4 @@ nav:
   - "5. Actions & Cron": 05_actions_cron.md
   - "6. OWL & Frontend": 06_owl_javascript.md
   - "7. Migration & Versions": 07_migration_guides.md
+  - "8. Best Practices & Pitfalls": 08_best_practices.md
